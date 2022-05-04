@@ -3,7 +3,7 @@
   <head>
     <title>Test Javascript</title>
     <script type="text/javascript">
-      let hello_world = {"Hello":"xxxx"};
+      let hello_world = {"Hello":"blake"};
       alert(hello_world.Hello);
     </script>
   </head>
